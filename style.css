@@ -26,5 +26,5 @@ h1{font-weight: 600; margin: 1rem 0;}
 
 p{margin: 1em 0; max-width: 45ch}
 
-footer a{display: block}
-footer a:last-child{text-align: right}
+footer a{display: block; width: fit-content}
+footer a:last-child{text-align: right; margin-left: auto}
