@@ -2,3 +2,26 @@
     font-family: 'TASA Orbiter';
     src: url("assets/"TASAOrbiter-VariableFont_wght.woff2);
 }
+
+*{--color: #C75300}
+
+body{background-color: var(--back);
+    --border: min(64px, 7.8vw);
+    margin: var(--border);
+    font-family: "TASA Orbiter", sans-serif;
+    width: fit-content}
+
+header, main section{
+    background-color: white;
+    padding: min(1em, 4vw) min(2em, 8vw);
+    margin: 2rem 0;}
+
+a{color: var(--color)}
+a:hover{text-decoration: underline; color: black}
+a:active{background-color: black; text-decoration: none; color: white}
+
+::selection{background-color: var(--color); color: white}
+
+h1{font-weight: 600; margin: 1rem 0;}
+
+p{margin: 1em 0; max-width: 45ch}
