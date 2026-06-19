@@ -35,6 +35,3 @@ footer a{display: block; width: fit-content}
 footer a:last-child{text-align: right; margin-left: auto}
 
 img{max-width: 100%}
-
-ul{padding-left: 1em;
-    list-style-type: "→ ";}
