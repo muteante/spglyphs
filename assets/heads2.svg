@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.39107157"
-     inkscape:cx="97.168916"
+     inkscape:cx="97.168915"
      inkscape:cy="365.66197"
      inkscape:window-width="1023"
      inkscape:window-height="1052"
@@ -40,49 +40,25 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-143.40678,38.959925)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.724443;stroke-linecap:square"
-       x="155.30144"
-       y="-16.029352"
-       id="text16-8-7-0"><tspan
-         sodipodi:role="line"
-         id="tspan16-8-8-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.724443"
-         x="155.30144"
-         y="-16.029352">mi</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.724443;stroke-linecap:square"
-       x="187.05156"
-       y="-15.978479"
-       id="text16-8-7-0-5"><tspan
-         sodipodi:role="line"
-         id="tspan16-8-8-5-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.724443"
-         x="187.05156"
-         y="-15.978479">sina</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.724443;stroke-linecap:square"
-       x="155.30144"
-       y="15.771536"
-       id="text16-8-7-0-4"><tspan
-         sodipodi:role="line"
-         id="tspan16-8-8-5-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.724443"
-         x="155.30144"
-         y="15.771536">ona</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.724443;stroke-linecap:square"
-       x="187.05156"
-       y="15.822439"
-       id="text16-8-7-0-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan16-8-8-5-1-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.724443"
-         x="187.05156"
-         y="15.822439">lape</tspan></text>
+    <path
+       d="m 155.75394,-18.494729 c 5.27403,0 9.67426,-4.2754 9.67426,-9.580641 0,-5.305241 -4.40023,-9.549434 -9.67426,-9.549434 -5.1492,0 -9.48702,4.056949 -9.67426,9.237361 v 13.013444 h 1.56036 v -7.458545 c 1.56037,2.371755 4.33782,4.337815 8.1139,4.337815 z m 0,-17.56971 c 4.40023,0 8.1139,3.557632 8.1139,7.989069 0,4.431437 -3.68246,8.020276 -8.1139,8.020276 -4.43144,0 -8.1139,-3.588839 -8.1139,-8.020276 v -0.156037 c 0.0624,-4.369022 3.80729,-7.833032 8.1139,-7.833032 z"
+       id="text16-8-7-0"
+       style="font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.724443;stroke-linecap:square"
+       aria-label="mi" />
+    <path
+       d="m 179.39016,-29.303997 v -7.458544 h -1.56036 v 12.982237 c 0.18724,5.180411 4.52506,9.23736 9.67426,9.23736 5.27404,0 9.67427,-4.244192 9.67427,-9.549433 0,-5.336449 -4.36903,-9.549434 -9.67427,-9.549434 -3.77608,0 -6.55353,1.96606 -8.1139,4.337814 z m 8.1139,-2.777449 c 4.43144,0 8.1139,3.526425 8.1139,7.989069 0,4.462643 -3.68246,7.989068 -8.1139,7.989068 -4.43143,0 -8.1139,-3.526425 -8.1139,-7.989068 v -0.156037 c 0.0624,-4.400229 3.74488,-7.833032 8.1139,-7.833032 z"
+       id="text16-8-7-0-5"
+       style="font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.724443;stroke-linecap:square"
+       aria-label="sina" />
+    <path
+       d="m 156.59654,-4.6380384 c -5.64852,0 -9.86151,4.80592418 -9.86151,10.3296163 0,3.5264249 1.62278,6.8343991 4.64989,8.7692511 h -6.49112 v 1.560365 h 11.70274 c 5.67973,0 9.89271,-4.805924 9.89271,-10.3296161 0,-5.55489942 -4.21298,-10.3296163 -9.89271,-10.3296163 z m 0,19.0988674 c -4.77472,0 -8.30114,-4.119363 -8.30114,-8.7692511 0,-4.6498877 3.52642,-8.7692513 8.30114,-8.7692513 4.74351,0 8.33235,4.1505709 8.33235,8.7692513 0,4.6186801 -3.58884,8.7692511 -8.33235,8.7692511 z"
+       id="text16-8-7-0-4"
+       style="font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.724443;stroke-linecap:square"
+       aria-label="ona" />
+    <path
+       d="m 189.65737,15.947268 c 5.61731,0 9.20615,-5.305241 9.20615,-10.5168598 0,-5.2116191 -3.58884,-10.5480674 -9.20615,-10.5480674 -5.27404,0 -8.89408,4.7747169 -9.20616,9.7678849 h -4.99317 v 1.560365 h 4.99317 c 0.31208,4.9931683 3.90092,9.7366773 9.20616,9.7366773 z m 0,-19.5045622 c 4.21298,0 7.64578,4.0257417 7.64578,8.9877024 0,4.9307538 -3.4328,8.9564948 -7.64578,8.9564948 -4.21299,0 -7.677,-4.025741 -7.677,-8.9564948 0,-4.9619607 3.46401,-8.9877024 7.677,-8.9877024 z"
+       id="text16-8-7-0-5-9"
+       style="font-size:31.2073px;line-height:14.9027px;font-family:'linja pona 4.9';-inkscape-font-specification:'linja pona 4.9, ';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.724443;stroke-linecap:square"
+       aria-label="lape" />
   </g>
 </svg>
