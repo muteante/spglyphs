@@ -6,14 +6,14 @@
 *{--color: #C75300}
 
 body{background-color: var(--back);
-    --border: min(64px, 7.8vw);
+    --border: min(64px, 6vw);
     margin: var(--border);
     font-family: "TASA Orbiter", sans-serif;
     width: fit-content}
 
 header, footer, main section{
     background-color: white;
-    padding: min(1em, 4vw) min(2em, 8vw);
+    padding: min(1em, 3vw) min(2em, 6vw);
     margin: 2rem 0;}
 
 a{color: var(--color)}
